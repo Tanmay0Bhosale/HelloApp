@@ -1,0 +1,6 @@
+public class helloApp {
+    public static void main(String[] args) {
+        System.out.println("Hello App");
+        System.out.println("Implemented the release command git flow release start");
+    }
+}
